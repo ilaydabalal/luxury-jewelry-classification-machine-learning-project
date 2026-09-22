@@ -7,8 +7,6 @@
 ---
 
 
-## English
-
 A data mining and machine learning project that processes a dataset of **4,204 jewelry images** (necklaces, earrings, rings, bracelets, watches) collected from online platforms of luxury brands using the Orange data mining tool, and classifies them using various algorithms.
 
 **About the Project**
@@ -28,7 +26,6 @@ In this project, images were converted into numerical vectors using the *image e
 ```text
 takı_siniflandirma_projesi/
 ├── şikır şıkır.ows                # Orange platform model and workflow file
-├── 223311018 - 223311047 Rapor.docx # Detailed academic project report
 └── README.md                      # Project documentation
 
 ```
@@ -40,8 +37,6 @@ takı_siniflandirma_projesi/
 * 3 different classification algorithms (Neural Network, Logistic Regression, kNN) are trained and evaluated on the same dataset[cite: 5].
 * Performances are compared using Accuracy, Precision, Recall, and F1-Score metrics[cite: 5].
 
-
-## 🇹🇷 Türkçe
 
 Orange veri madenciliği platformunu kullanarak lüks markaların (Cartier, Swarovski, Bulgari vb.) online mecralarından otomatik veya sistemli olarak topladığım **4.204 adet görselden** oluşan takı veri setini (kolye, küpe, yüzük, bileklik, saat) işlediğim ve makine öğrenmesi modelleriyle sınıflandırdığım projedir.
 
@@ -62,7 +57,6 @@ Bu projede, görseller öznitelik çıkarımı (*image embedding*) yöntemiyle s
 ```text
 takı_siniflandirma_projesi/
 ├── şikır şıkır.ows                # Orange platformu modelleme ve iş akışı dosyası
-├── 223311018 - 223311047 Rapor.docx # Projenin detaylı akademik raporu
 └── README.md                      # Proje dokümantasyonu
 
 ```
